@@ -10,13 +10,6 @@
 </div>
 
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block"> Si debuggear es el proceso de remover errores de código entonces programar debe ser el proceso de ponerlos .- Edsger Dijkstra
-    </h2></summary>
-  </ul>
-</div>
 
 
 <!--Intro start-->
