@@ -9,17 +9,6 @@
   />
 </p>
 
-<!-- Presentación -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 style="display: inline-block">
-        Hola 👋, Soy Jose Salinas
-      </h1>
-    </summary>
-  </ul>
-</div>
-
 <!-- Introducción -->
 - 🔭 Actualmente estoy trabajando con COBOL, C, TACL, Java y SQLite.
 
