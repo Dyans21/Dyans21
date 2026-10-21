@@ -1,10 +1,9 @@
-<!-- Divisor horizontal -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!-- Imagen de portada de Jose Salinas -->
 <p align="center">
   <img
-    src="URL_DE_TU_IMAGEN"
+    src="https://github.com/Dyans21/Dyans21/blob/main/baner.png"
     alt="Jose Salinas - Desarrollador de software"
     width="100%"
   />
@@ -40,16 +39,6 @@
     </summary>
   </ul>
 </div>
-
-<!-- Iconos de tecnologías -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=java,c,html,css,kotlin,php,laravel,mysql,sqlite,androidstudio,atom,vscode,windows,ubuntu&perline=7"
-      alt="Tecnologías de Jose Salinas"
-    />
-  </a>
-</p>
 
 <!-- Contador de visitas -->
 <div align="center">
